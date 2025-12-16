@@ -29,7 +29,7 @@ install.packages("NMF")
 ---------------------------------------------------------------
 ## Description of R Scripts
 ---------------------------------------------------------------
-- **dis-cluster.R** : This script performs the discovery cohort analysis using toy data. It runs Sparse MultiCCA, region-specific K-means clustering, and NMF meta-clustering.
+- **dis-cluster.R** : This script performs the discovery cohort analysis. It performs Sparse MultiCCA, region-specific K-means clustering, and NMF meta-clustering.
 - **rep-cluster.R** : This script performs the replication cohort analysis. It projects replication samples into the discovery CCA space, assigns cluster labels, and applies NMF meta-clustering.
 
 

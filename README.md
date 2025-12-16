@@ -1,4 +1,4 @@
-# Multi-Region Transcriptomic Subtyping via Sparse CCA
+# Multi-Region Transcriptomic Subtyping 
 This repository contains R code for the manuscript entitled:  
 **“Multi-region brain transcriptomes uncover two subtypes of aging individuals with differences in Alzheimer’s disease risk and the impact of APOE ε4”.**
 
